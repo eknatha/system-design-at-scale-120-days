@@ -31,12 +31,12 @@ system-design-at-scale-120-days/
 ├── 08-case-studies/              # Days 81–95:  Real-world system breakdowns
 ├── 09-kubernetes-at-scale/       # Days 96–115: Kubernetes internals, failure, security, ops
 ├── 10-interview-ready/           # Days 116–120: Synthesis, walkthroughs, practice
-│
+├── diagrams/ 
 ├── templates/
-│   ├── daily-entry.md            # Template for each day's entry
-│   ├── case-study.md             # Template for case study entries
-│   └── capacity-worksheet.md    # Template for capacity planning exercises
-│
+├── cheatsheets/        
+├── patterns/         
+├── mini-projects/    
+├── glossary.md           # simple + useful
 └── README.md
 ```
 
